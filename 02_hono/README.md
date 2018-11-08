@@ -132,7 +132,7 @@ AJACS名古屋2 @ 愛知県がんセンター　国際医学交流センター�
 ## 個々の遺伝子の発現プロファイルを調べる
 ### [RefEx (Reference Expression dataset)](https://refex.dbcls.jp/)
 - 遺伝子発現解析の基準となるデータを快適に検索できるウェブツール
-    - [http://refex.dbcls.jp/](https://refex.dbcls.jp/)
+    - [https://refex.dbcls.jp/](https://refex.dbcls.jp/)
     ![Fig-1](https://raw.githubusercontent.com/dbcls/website/master/services/images/DBCLSservices_RefEx_jp_fig-1_180523.png)  
 
     ![Fig-2](https://raw.githubusercontent.com/dbcls/website/master/services/images/DBCLSservices_RefEx_jp_fig-2_180523.png)
@@ -220,7 +220,7 @@ AJACS名古屋2 @ 愛知県がんセンター　国際医学交流センター�
 
 ### ChIP-Atlas
 ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、利活用するためのウェブサービスです。データ処理の知識やスキルがない方でも簡単に利用できます。データソースは、公開 NGS データレポジトリ (NCBI, EMBL-EBI, DDBJ) に登録されたほぼ全ての ChIP-seq データです。ChIP-Atlas は、九州大学大学院医学研究院 発生再生学分野 (http://www.dev.med.kyushu-u.ac.jp) と DBCLS が共同で開発しています。  
- (http://chip-atlas.org/)
+ (https://chip-atlas.org/)
 
 ![fig10](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_10.png)
 
@@ -257,7 +257,7 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 ### 【実習2】ChIP-AtlasのEnrichment Analysis を使って、興味ある遺伝子リストを制御する可能性の高い転写因子を調べる
 * 「発現差のあった遺伝子リスト」を持っている想定で、それらの遺伝子に結合しうる、あるいは上流でそれらの遺伝子の発現を制御する可能性がある転写因子を検索する
 * 使用するデータ
-  - [180627_List_of_GeneSymbol_txt](https://github.com/AJACS-training/AJACS71/blob/master/04_hono/180627_List_of_GeneSymbol.txt)
+  - [181205_List_of_GeneSymbol_txt](https://github.com/AJACS-training/AJACS73/blob/master/02_hono/181205_List_of_GeneSymbol.txt)
     - ある「興味ある遺伝子リスト」をGeneSymbolにID変換したデータ。
     - これを使って、もともとどういう遺伝子リストだったかを考察します。
   - ChIP-Atlas では、遺伝子IDとしてGeneSymbolのみを受け付けているので、それ以外のIDで遺伝子リストを持っている場合は、適宜変換が必要です。
