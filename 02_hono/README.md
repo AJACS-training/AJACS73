@@ -1,17 +1,17 @@
-# AJACS番町1 実験データの生物学的解釈を助ける遺伝子発現DB・ウェブツールの使い方
+# AJACS名古屋2 実験データの生物学的解釈を助ける遺伝子発現DB・ウェブツールの使い方
 
 大学共同利用機関法人 情報・システム研究機構  
 データサイエンス共同利用基盤施設  
 ライフサイエンス統合データベースセンター    
 [小野 浩雅](https://sites.google.com/a/dbcls.rois.ac.jp/hono/)  
 hono@dbcls.rois.ac.jp  
-2018年8月29日(水)
-AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
+2018年12月5日(水)
+AJACS名古屋2 @ 愛知県がんセンター　国際医学交流センター　大会議室
 
 ----
 
-これは統合データベース講習会 AJACS番町1「実験データの生物学的解釈を助ける遺伝子発現DB・ウェブツールの使い方」の講習資料です。  
-講習会全体のプログラムは[こちら](http://events.biosciencedbc.jp/training/ajacs71)です。
+これは統合データベース講習会 AJACS名古屋2「実験データの生物学的解釈を助ける遺伝子発現DB・ウェブツールの使い方」の講習資料です。  
+講習会全体のプログラムは[こちら](https://events.biosciencedbc.jp/training/ajacs73)です。
 
 ----
 
@@ -47,8 +47,7 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
     - 当たり前に感じる質問や一見関係なさそうな質問がでると、「そういう質問をしてもよいのだ」という空気になり、この講義から得られる情報が増え、皆さんの受講満足度が上がります(たぶん)。
     - でも講師も知らないことは(多々)あります。(以下ループ)
 - 実験的な試みとしてWeb上で匿名で質問・コメントできるフォームを用意してみました。
-    - [講師用](https://docs.google.com/presentation/d/1Buj93jSKB-tWU1F37ykVEuv7Bu_q6KE_4hqICRCpTk4/edit#slide=id.p)
-    - [受講者質問用フォーム](http://goo.gl/slides/as8xh7)(右クリックから「新しいタブで開く」推奨)    
+    - https://www.sli.do/
 
 ----
 
@@ -73,7 +72,7 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
 ---
 
 ## 研究現場で頻繁に使われるデータベースやツールを知る
-### [統合TV](http://togotv.dbcls.jp/ja/)
+### [統合TV](https://togotv.dbcls.jp/ja/)
 - 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
     - http://togotv.dbcls.jp/ja/
     - ![統合TVトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_01.png)
@@ -89,14 +88,14 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
 - 講義・講習などの参考資料や後輩指導の教材として利用できます。
     - 本講義中、本家サイトが繋がらない時は、統合TVを見ればおおよその内容がわかるようになっています。
     - DBCLSの提供する便利な各種サービスをレビューする内容もあります。
-      - [【NGSハンズオン2017】NBDC・DBCLSの各種サービス 今日から使える便利な生命科学系公共データベース in DBCLS](http://togotv.dbcls.jp/20171204.html)
+      - [【NGSハンズオン2017】NBDC・DBCLSの各種サービス 今日から使える便利な生命科学系公共データベース in DBCLS](https://togotv.dbcls.jp/20171204.html)
 
 - 統合TVに掲載されているコンテンツについてご引用いただく際に、恒久的な URL として [DOI](https://ja.wikipedia.org/wiki/デジタルオブジェクト識別子) (Digital Object Identifier) を使用することができます。
 
-- 2014年8月以降に開催された過去の講習会の資料・テキストと動画が「[AJACS講習会資料](http://togotv.dbcls.jp/ja/ajacs_text.html)」で閲覧できるようになり、受講生の復習のみならず、初学者の学習教材として活用できます。
+- 2014年8月以降に開催された過去の講習会の資料・テキストと動画が「[AJACS講習会資料](https://togotv.dbcls.jp/ja/ajacs_text.html)」で閲覧できるようになり、受講生の復習のみならず、初学者の学習教材として活用できます。
 
-- 誰でも自由に利用可能なライフサイエンス分野のイラストが､統合TVから閲覧､利用することができるようになりました。[「自由に使える画像を探す」](http://togotv.dbcls.jp/ja/pics.html)
-    - [Togo picture gallery](http://g86.dbcls.jp/~togoriv/)と[生物アイコン](http://togodb.biosciencedbc.jp/togodb/view/taxonomy_icon)の全画像500点以上を一覧できます。
+- 誰でも自由に利用可能なライフサイエンス分野のイラストが､統合TVから閲覧､利用することができるようになりました。[「自由に使える画像を探す」](https://togotv.dbcls.jp/ja/pics.html)
+    - Togo picture galleryと[生物アイコン](https://togodb.biosciencedbc.jp/togodb/view/taxonomy_icon)の全画像500点以上を一覧できます。
     - 研究発表のスライド作成や資料作成等に､ぜひお使いください。
     - ![自由に使える画像を探す](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_04.png)
 
@@ -111,13 +110,13 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
     - [「塩基配列解析のためのデータベース・ウェブツールとCRISPRガイドRNA設計 @ AJACSこまち」(2016年8月)](http://doi.org/10.7875/togotv.2016.122)
 
 - 遺伝子発現データを公共DBで検索・取得・解析する方法について
-    - [「遺伝子発現DB・ウェブツールの使い方 応用・実践編」(2015年5月AJACS御茶ノ水)](http://togotv.dbcls.jp/ja/ajacs2015007.html)
+    - [「遺伝子発現DB・ウェブツールの使い方 応用・実践編」(2015年5月AJACS御茶ノ水)](https://togotv.dbcls.jp/ja/ajacs2015007.html)
 
 - 非モデル生物のデータをモデル生物のデータに見立てるためのID対応表づくりについて
     - [「コマンドラインで遺伝子配列を解析する」（2012年7月）](https://github.com/AJACS-training/AJACS32/blob/master/05_bono/README.md)
 
 - 次世代シーケンス(NGS)データの解析について
-    - [【NGS】に関係する動画・講習会資料・新着論文レビュー](http://togotv.dbcls.jp/tags.html?tag=NGS)
+    - [【NGS】に関係する動画・講習会資料・新着論文レビュー](https://togotv.dbcls.jp/tags.html?tag=NGS)
 
 - NGS解析について、さらにもっと基礎から応用までを深く学びたい方向け (それぞれ約50時間程度)
     - [「バイオインフォマティクス人材育成カリキュラム（次世代シークエンサ）速習コース(2014年8月)](https://www.youtube.com/playlist?list=PL0uaKHgcG00abmj1Nzs1SUhqKLjf_PFBB)
@@ -127,13 +126,13 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
     - [上記の動画+講習会資料のまとめページ@統合TV](http://togotv.dbcls.jp/ja/tags.html?tag=NGS速習・ハンズオン)
 
 - 疾患と多型、変異に関するデータベース (COSMIC,TCGA 等)
-    - [【多型】に関係する動画・講習会資料・新着論文レビュー](http://togotv.dbcls.jp/tags.html?tag=%E5%A4%9A%E5%9E%8B)
+    - [【多型】に関係する動画・講習会資料・新着論文レビュー](https://togotv.dbcls.jp/tags.html?tag=%E5%A4%9A%E5%9E%8B)
 ----
 
 ## 個々の遺伝子の発現プロファイルを調べる
-### [RefEx (Reference Expression dataset)](http://refex.dbcls.jp/)
+### [RefEx (Reference Expression dataset)](https://refex.dbcls.jp/)
 - 遺伝子発現解析の基準となるデータを快適に検索できるウェブツール
-    - [http://refex.dbcls.jp/](http://refex.dbcls.jp/)
+    - [http://refex.dbcls.jp/](https://refex.dbcls.jp/)
     ![Fig-1](https://raw.githubusercontent.com/dbcls/website/master/services/images/DBCLSservices_RefEx_jp_fig-1_180523.png)  
 
     ![Fig-2](https://raw.githubusercontent.com/dbcls/website/master/services/images/DBCLSservices_RefEx_jp_fig-2_180523.png)
@@ -141,7 +140,7 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
 - 公共DBにある正常組織や細胞株における遺伝子発現データを再利用・整理
 - 4つの異なる実験手法（EST、GeneChip、CAGE、RNA-seq）によって得られた正常組織、初代培養細胞、細胞株における遺伝子発現データを検索、閲覧可能
     - 最近新たに、FANTOM5 CAGEデータが追加(ヒト556種、マウス286種)
-    - 掲載しているデータやオリジナルデータなどの詳細については、[RefExについて](http://refex.dbcls.jp/about.php?lang=ja)
+    - 掲載しているデータやオリジナルデータなどの詳細については、[RefExについて](https://refex.dbcls.jp/about.php?lang=ja)
 - このツールでできること
     - 正常組織における遺伝子発現データを調べる
     - 測定手法による遺伝子発現量の差異を比較する
@@ -171,20 +170,20 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
 ----
 
 #### 【実習1】RefExを使って、組織特異的遺伝子を検索する
-- 【復習用】[RefExの使い方](http://doi.org/10.7875/togotv.2014.009)
+- 【復習用】[RefExの使い方](https://doi.org/10.7875/togotv.2014.009)
 
 1. http://refex.dbcls.jp/ を開きます。
 2. 画面中央の「組織特異的に発現する遺伝子を見る」の臓器アイコンにカーソルを合わせると、更に詳細な部位のアイコンが出るので、調べたい臓器（例として肝臓）をクリックします。  
   - ![http://gyazo.com/35c8f38340753e8f433cb8c4d8fd812b](http://i.gyazo.com/35c8f38340753e8f433cb8c4d8fd812b.jpg)
 
 3. 検索結果一覧が表示されます。検索結果一覧では、「ソート項目の切り替え」や「絞り込み検索」、「リストへの追加」ができます。(手順11以降で解説します。)
-4. 各遺伝子の青字の部分（例 [fibrinogen alpha chain](http://refex.dbcls.jp/gene_info.php?lang=ja&db=human&geneID=2243&refseq=NM_000508&unigene=Hs.351593&probe=205649_s_at))をクリックすると詳細情報を閲覧できます。
+4. 各遺伝子の青字の部分（例 [fibrinogen alpha chain](https://refex.dbcls.jp/gene_info.php?lang=ja&db=human&geneID=2243&refseq=NM_000508&unigene=Hs.351593&probe=205649_s_at))をクリックすると詳細情報を閲覧できます。
 5. 「ヒートマップ on Bodyparts3D」では、表示する部位の切り替え（全身・体幹部・頭部）ができます。「皮膚・骨格筋を表示」もしくは「アニメーション表示」にチェックを入れるとどのように表示されるでしょうか。
 6. 「組織40分類別データ」では、バーの上にマウスオーバーすると測定部位と発現値が表示されます。
 7. 「Download」をクリックすると、表示中の遺伝子の組織40分類別の発現データがタブ区切り形式でダウンロードできます。
 8. 「Probe set ID」のリンク先をクリックすると、どういう情報が参照できるでしょうか。
 9. 遺伝子オントロジー([Gene Ontology](http://array.cell-innovator.com/?p=1085):GO ID)をクリックすると、そのGO termを持つ他の遺伝子を一括で検索できます。
-  - 例として、[GO:0007596](http://refex.dbcls.jp/genelist.php?lang=ja&db=human&idkind=1&ids=GO:0007596)   blood coagulation をクリックしてみましょう。
+  - 例として、[GO:0007596](https://refex.dbcls.jp/genelist.php?lang=ja&db=human&idkind=1&ids=GO:0007596)   blood coagulation をクリックしてみましょう。
   - ![遺伝子詳細情報](http://i.gyazo.com/3cca3d33c17e845ad5dae8749d7fbd15.jpg)
 
 10. 右側のFANTOM5 CAGEのタブをクリックすると、FANTOM5 CAGEデータのビューアに切り替わります。
@@ -202,7 +201,7 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
  - 「組織」の項目で、データ元をRNA-seqに変更したり、臓器の指定を追加すると検索結果はどう変わるでしょうか。
  - 「必ず含むデータセット」の「ALL」にチェックを入れると、検索結果はどう変わるでしょうか。
 13.  個々の遺伝子の詳細情報は、リストに追加することで並列に比較することができます。
- - [肝臓特異的遺伝子の検索結果一覧](http://refex.dbcls.jp/genelist.php?lang=ja&db=human&roku_valid=1&rk[31]=31&order_key=score)に移動して、3つの遺伝子を「リストに追加」してみましょう。
+ - [肝臓特異的遺伝子の検索結果一覧](https://refex.dbcls.jp/genelist.php?lang=ja&db=human&roku_valid=1&rk[31]=31&order_key=score)に移動して、3つの遺伝子を「リストに追加」してみましょう。
  - 追加した件数は「リストを見る」の横に表示されます。
  - 「リストを見る」をクリックするとリストに移動します。
  - 『並べて表示する』にチェックを入れて、「遺伝子を並べて表示」をクリックします。
@@ -223,20 +222,20 @@ AJACS番町1 @ JST東京本部（サイエンスプラザ）B1大会議室
 ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、利活用するためのウェブサービスです。データ処理の知識やスキルがない方でも簡単に利用できます。データソースは、公開 NGS データレポジトリ (NCBI, EMBL-EBI, DDBJ) に登録されたほぼ全ての ChIP-seq データです。ChIP-Atlas は、九州大学大学院医学研究院 発生再生学分野 (http://www.dev.med.kyushu-u.ac.jp) と DBCLS が共同で開発しています。  
  (http://chip-atlas.org/)
 
-![fig10](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_10.png)
+![fig10](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_10.png)
 
 ![fig11](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_11.png)
 
 #### ChIP-Atlasの機能
 ##### Peak Browser
 * 既報の ChIP-seq データをまとめて閲覧し、何がどこに結合しているかが一目でわかります。Integrative Genomics Viewer (IGV) によりスムーズなブラウジングが可能で、興味の遺伝子のシス調節領域を予測したり、それを制御する転写因子の予測ができます。
-  * [ChIP\-Atlasを使って既報のChIP\-seqデータをまとめて閲覧する 〜Peak Browserの使い方〜](http://togotv.dbcls.jp/20180123.html)
+  * [ChIP\-Atlasを使って既報のChIP\-seqデータをまとめて閲覧する 〜Peak Browserの使い方〜](https://togotv.dbcls.jp/20180123.html)
 ##### Target Genes
 * 興味のある転写因子を選択し、その標的遺伝子候補を検索できます。
-  * 統合TV「[ChIP\-Atlasを使って興味のある転写因子を選択しその標的遺伝子候補を検索する 〜Target Genesの使い方〜](http://togotv.dbcls.jp/20180124.html)」
+  * 統合TV「[ChIP\-Atlasを使って興味のある転写因子を選択しその標的遺伝子候補を検索する 〜Target Genesの使い方〜](https://togotv.dbcls.jp/20180124.html)」
 ##### Colocalization
 * 興味のある転写因子を選択し、それとゲノム上で共局在する転写因子候補を検索できます。
-  * 統合TV「[ChIP\-Atlasを使って共局在タンパク質を探す 〜Colocalizationの使い方〜](http://togotv.dbcls.jp/20180128.html)」
+  * 統合TV「[ChIP\-Atlasを使って共局在タンパク質を探す 〜Colocalizationの使い方〜](https://togotv.dbcls.jp/20180128.html)」
 ##### Enrichment Analysis
 * ユーザデータを受け付け、既存データとの比較解析をおこないます。たとえば、興味のある遺伝子リストを submit すると、それらをまとめて制御する転写因子候補が返されます。ほかにも BED 形式のファイルや、シーケンスモチーフを submit すると、それらに enrichment する転写因子群が返されます。
 
@@ -267,7 +266,7 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
       - [DAVID(Database for Annotation, Visualization and Integrated Discovery)
    ](https://david.ncifcrf.gov/)のGene ID Conversion Toolも便利。([使い方動画](https://youtu.be/4f1t1ma9IRc?t=4m5s))
 
-1. [ChIP\-Atlas \- Enrichment Analysis](http://chip-atlas.org/enrichment_analysis)にアクセスする
+1. [ChIP\-Atlas \- Enrichment Analysis](https://chip-atlas.org/enrichment_analysis)にアクセスする
 2. 下図のようにオプションを設定する
 ![fig12](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_12.png)
 3. submit すると遺伝研スパコンへクエリが飛ぶ(ので、講義中は見てるだけにしてください)
@@ -276,12 +275,12 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 5. 計算が終わるまで待つ
 ![fig14](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_14.png)
 6. 計算が終わると、「Result URL」が有効になる
-  - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2018-0606-1701-36-865-010614?info=result&format=html
+  - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2018-1104-1735-21-275-473936?info=result&format=html
 7. 結果の解釈をする
   - 今回は、どういう「興味ある遺伝子リスト」をクエリとしたか考察してみましょう。
   - 結果の見方としては、「p-valueが低く、Overlaps/My dataが多く、Fold Enrichmentが高い」転写因子がたくさんヒットしてくると入力した遺伝子群をまとめて制御する、マスター転写因子を抽出できている確度が高い
 
-8. [答え合わせ](https://github.com/AJACS-training/AJACS71/blob/master/04_hono/180627_ChIP-Atlas_answer.md)
+8. [答え合わせ](https://github.com/AJACS-training/AJACS73/blob/master/02_hono/181205_ChIP-Atlas_answer.md)
 
 
 
@@ -355,4 +354,4 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 
 ---
 
-[答え合わせ](https://github.com/AJACS-training/AJACS71/blob/master/04_hono/answer.md)
+[答え合わせ](https://github.com/AJACS-training/AJACS73/blob/master/02_hono/answer.md)
