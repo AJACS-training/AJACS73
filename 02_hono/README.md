@@ -74,7 +74,7 @@ AJACS名古屋2 @ 愛知県がんセンター　国際医学交流センター�
 ## 研究現場で頻繁に使われるデータベースやツールを知る
 ### [統合TV](https://togotv.dbcls.jp/ja/)
 - 生命科学分野の有用なデータベースやツールの使い方を動画で紹介するウェブサイト
-    - http://togotv.dbcls.jp/ja/
+    - https://togotv.dbcls.jp/ja/
     - ![統合TVトップページ](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_01.png)
 
     - YouTube版もあります http://www.youtube.com/user/togotv/
