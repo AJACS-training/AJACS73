@@ -269,12 +269,12 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
 
 1. [ChIP\-Atlas \- Enrichment Analysis](http://chip-atlas.org/enrichment_analysis)にアクセスする
 2. 下図のようにオプションを設定する
-![fig12](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_12.png)
+![fig12](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_12.png)
 3. submit すると遺伝研スパコンへクエリが飛ぶ(ので、講義中は見てるだけにしてください)
 4. submit したあとの画面
-![fig13](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_13.png)
+![fig13](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_13.png)
 5. 計算が終わるまで待つ
-![fig14](https://raw.githubusercontent.com/hiromasaono/training/master/images/180612_14.png)
+![fig14](https://raw.githubusercontent.com/hiromasaono/training/master/images/181104_14.png)
 6. 計算が終わると、「Result URL」が有効になる
   - 今回の例では、 http://ddbj.nig.ac.jp/wabi/chipatlas/wabi_chipatlas_2018-0606-1701-36-865-010614?info=result&format=html
 7. 結果の解釈をする
