@@ -15,7 +15,8 @@
 ### 会場
 愛知県がんセンター 国際医学交流センター　大会議室
 （愛知県名古屋市千種区鹿子殿1番1号）
-
+- [公共交通機関でのアクセス（市内）](http://www.pref.aichi.jp/cancer-center/cc/access/shinai.html)
+- [敷地内案内図（歩行者）](http://www.pref.aichi.jp/cancer-center/cc/access/shikichi_walk.html)
 
 ### プログラム
 #### 12月5日
