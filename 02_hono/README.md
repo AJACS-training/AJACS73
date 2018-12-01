@@ -137,6 +137,7 @@ AJACS名古屋2 @ 愛知県がんセンター　国際医学交流センター�
     - [The Cancer Genome Atlas \(TCGA\) を使って各癌種の公開データを解析する](https://togotv.dbcls.jp/20171214.html)
     - [COSMICでがん遺伝子の体細胞変異について調べる](https://togotv.dbcls.jp/20180127.html)
     - [COSMIC\-3Dを使って がん遺伝子のコードするタンパク質の立体構造を がんで見られる変異の情報と重ねて見る](https://togotv.dbcls.jp/20180329.html)
+    - [depmapを使ってがん細胞が依存する遺伝子の情報を調べる \(がんの治療標的となる遺伝子を発見する\)](https://togotv.dbcls.jp/20180531.html)
     - [GWAS Catalog を使って、GWASで見つかった形質と多型の関連について検索する](https://togotv.dbcls.jp/20180402.html)
     - [ClinVarで疾患に関連する変異を検索し、Variation Viewerで視覚的に変異を探す](https://togotv.dbcls.jp/20180122.html)
     - [gnomADを使ってヒトのエキソームやゲノムのデータから変異を探す](https://togotv.dbcls.jp/20180401.html)
