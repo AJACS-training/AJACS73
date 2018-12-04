@@ -88,12 +88,12 @@ ABI PRISM&#174; 3100-Avant Genetic Analyzerより
 - DRA　(DDBJ sequence read archive)… [例](http://trace.ddbj.nig.ac.jp/DRASearch/study?acc=SRP100645)
  - 試しに検索してみましょう： http://trace.ddbj.nig.ac.jp/DRASearch/　　（キーワードで検索 → TypeをStudyで絞り込み。生物種でも）
 - [DBCLS SRA](http://sra.dbcls.jp) （DBCLS） … いろいろな観点（目的、機器、生物種）からの絞り込みが可能。改修+DDBJと統合中
- - [文献からの検索](http://sra.dbcls.jp/cgi-bin/publication.cgi)
- - 疾患からの検索・[頻度](http://sra.dbcls.jp/cgi-bin/diseasefreq.cgi)・[階層構造表示](http://sra.dbcls.jp/cgi-bin/diseasetree.cgi)
- - [生物種からの絞り込み例](http://sra.dbcls.jp/cgi-bin/taxon2study.cgi?type=&platform=&taxon_id=&taxon_tree=on&taxon_in=Bacillus+subtilis) … 種→亜種・株、種→属→科の検索も可能
+ - [文献からの検索](http://test-sra.dbcls.jp/cgi-bin/publication.cgi)
+ - 疾患からの検索・[頻度](http://test-sra.dbcls.jp/cgi-bin/diseasefreq.cgi)・[階層構造表示](http://test-sra.dbcls.jp/cgi-bin/diseasetree.cgi)
+ - [生物種からの絞り込み例](http://test-sra.dbcls.jp/cgi-bin/taxon2study.cgi?type=&platform=&taxon_id=&taxon_tree=on&taxon_in=Bacillus+subtilis) … 種→亜種・株、種→属→科の検索も可能
 
 ## 解析の概略
-  [![](images/ajacs64.nakazato.pm.004.png)]()
+  [![](images/ajacs73.nakazato.flow.png)]()
 
 ## 参考リソース
 - 参考図書・その1 〜 実験もやる人向け
@@ -158,7 +158,7 @@ ABI PRISM&#174; 3100-Avant Genetic Analyzerより
 - 名前が違うだけで、中身は複数のツールの組み合わせということも多々あります
 - コマンド例：マッピング
 
-  `tophat -p 2 -G annotation.gtf -o results/ Human.genome.fasta DRR1234567.trimmed.fasta`
+  `hisat2 -f -p 24 -x genome.idx -U DRR1234567.trimmed.fasta -S results.sam`
 
 - 結果：sam/bamフォーマット
 
