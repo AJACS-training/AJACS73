@@ -271,6 +271,11 @@ ChIP-Atlasは、論文などで報告された ChIP-seq データを閲覧し、
   - https://github.com/inutano/chip-atlas
 - Preprint
   - Shinya Oki, Tazro Ohta, et al. Integrative analysis of transcription factor occupancy at enhancers and disease risk loci in noncoding genomic regions. bioRxiv 262899; doi: https://doi.org/10.1101/262899
+- Paper
+  - Shinya Oki, Tazro Ohta, Go Shioi, Hideki Hatanaka, Osamu Ogasawara, Yoshihiro Okuda, Hideya Kawaji, Ryo Nakaki, Jun Sese, and Chikara Meno.
+     **ChIP-Atlas: a data-mining suite powered by full integration of public ChIP-seq data.**
+              EMBO Reports
+             [https://doi.org/10.15252/embr.201846255]( https://doi.org/10.15252/embr.201846255)  
 - Database
   - Oki, S; Ohta, T (2015): ChIP-Atlas. http://dx.doi.org/10.18908/lsdba.nbdc01558-000
 - Publications citing ChIP-Atlas http://chip-atlas.org/publications
